@@ -20,6 +20,7 @@ using namespace std;
 // 从程序效果上来说 \n性能好，但是可能出现输出不及时的情况
 
 namespace ZhangSan {
+    // 命名空间内 可以把整个类都包含在命名空间内
     // 定义变量，常量，类，函数
     int x = 0;
 }
