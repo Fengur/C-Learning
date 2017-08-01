@@ -25,7 +25,7 @@ namespace ZhangSan {
     int x = 0;
 }
 
-namespace Lisi {
+namespace Lisi pp {
     int x ;
 }
 
